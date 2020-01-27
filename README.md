@@ -9,14 +9,15 @@
 
 
 ## Consignes : 
-* Travailler à partir de la branche "branche_Phil".
+* Regarder la branche master l'effet attendu.
+* Changer de branche et travailler à partir de la branche "branche_Phil".
 * Ecrire le css dans le composants "style/components/_menuHoverPhil.scss".
 * Pas besoin de js pour cet exo.
 
 
 ## Tricks :
-* Penser à les propriétés transition, transform, overflow.
-* Bien regarder le html si le css ne marche pas (petit piège ;) ).
+* Penser à regarder du côté des pseudos éléments ::before et ::after, et les propriétés css transition, transform, overflow, content.
+* Regarder dans l'index.html l'attribut data-* (ici data-key) et voir comment l'utiliser dans le css.
 
 
 ## Objectifs :

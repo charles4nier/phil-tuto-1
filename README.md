@@ -15,7 +15,7 @@
 
 
 ## Tricks :
-* Penser à les propriétés animation, transform, overflow.
+* Penser à les propriétés transition, transform, overflow.
 * Bien regarder le html si le css ne marche pas (petit piège ;) ).
 
 

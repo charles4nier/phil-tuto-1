@@ -1,4 +1,4 @@
-# TUTO-1
+# TUTO-1: réaliser un effet de hover sur le menu
 
 ## Avant de commencer :
 * Git clone or copy/paste le projet

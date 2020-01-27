@@ -70,14 +70,14 @@ module.exports = {
     }),
     new WebpackMd5Hash(),
     new CopyWebpackPlugin([
-      {
+      /* {
         from:'./src/assets/images',
         to:'assets/images'
       },
       {
         from:'./src/assets/fonts',
         to:'assets/fonts'
-      }, 
+      },  */
     ])
   ]
 };
